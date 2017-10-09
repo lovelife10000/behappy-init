@@ -4,7 +4,8 @@
   "description": "既然不快乐，生活就这样，除了接受，没有办法，尝试着快乐些吧，生活就是这样啊",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "behappy-bin dev"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,29 @@
   },
   "homepage": "https://github.com/lovelife10000/behappy-init#readme",
   "dependencies": {
+    "behappy": "^1.0.1",
+    "behappy-bin": "^1.0.1",
+    "behappy-ci": "^1.0.0",
+    "behappy-cluster": "^1.0.0",
+    "behappy-common-bin": "^1.0.0",
+    "behappy-core": "^1.0.0",
+    "behappy-development": "^1.0.0",
+    "behappy-i18n": "^1.0.0",
+    "behappy-jsonp": "^1.0.0",
+    "behappy-logger": "^1.0.0",
+    "behappy-logrotator": "^1.0.0",
+    "behappy-mock": "^1.0.0",
+    "behappy-multipart": "^1.0.0",
+    "behappy-onerror": "^1.0.0",
+    "behappy-path-matching": "^1.0.0",
+    "behappy-schedule": "^1.0.0",
+    "behappy-scripts": "^1.0.0",
+    "behappy-session": "^1.0.0",
+    "behappy-static": "^1.0.0",
+    "behappy-utils": "^1.0.0",
+    "behappy-view": "^1.0.0",
+    "behappy-watcher": "^1.0.0",
+    "debug": "^3.1.0",
     "koa": "^2.3.0",
     "koa-router": "^7.2.1"
   }
