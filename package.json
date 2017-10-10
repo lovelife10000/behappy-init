@@ -40,8 +40,12 @@
     "behappy-utils": "^1.0.0",
     "behappy-view": "^1.0.0",
     "behappy-watcher": "^1.0.0",
+    "change-case": "^3.0.1",
+    "dargs": "^5.1.0",
     "debug": "^3.1.0",
+    "is-type-of": "^1.2.0",
     "koa": "^2.3.0",
-    "koa-router": "^7.2.1"
+    "koa-router": "^7.2.1",
+    "yargs": "^9.0.1"
   }
 }
