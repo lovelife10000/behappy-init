@@ -18,11 +18,13 @@
   },
   "homepage": "https://github.com/lovelife10000/behappy-init#readme",
   "dependencies": {
+    "agentkeepalive": "^3.3.0",
     "behappy": "^1.0.1",
     "behappy-bin": "^1.0.1",
     "behappy-ci": "^1.0.0",
     "behappy-cluster": "^1.0.0",
     "behappy-common-bin": "^1.0.0",
+    "behappy-cookies": "^1.0.0",
     "behappy-core": "^1.0.0",
     "behappy-development": "^1.0.0",
     "behappy-i18n": "^1.0.0",
@@ -35,6 +37,7 @@
     "behappy-path-matching": "^1.0.0",
     "behappy-schedule": "^1.0.0",
     "behappy-scripts": "^1.0.0",
+    "behappy-security": "^1.0.0",
     "behappy-session": "^1.0.0",
     "behappy-static": "^1.0.0",
     "behappy-utils": "^1.0.0",
@@ -44,11 +47,13 @@
     "dargs": "^5.1.0",
     "debug": "^3.1.0",
     "detect-port": "^1.2.1",
+    "extend2": "^1.0.0",
     "get-ready": "^2.0.1",
     "graceful-process": "^1.0.0",
     "is-type-of": "^1.2.0",
     "koa": "^2.3.0",
     "koa-router": "^7.2.1",
+    "urllib": "^2.25.0",
     "yargs": "^9.0.1"
   }
 }
