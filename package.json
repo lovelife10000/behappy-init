@@ -43,7 +43,6 @@
     "behappy-serialize-json": "^1.0.0",
     "behappy-session": "^1.0.0",
     "behappy-static": "^1.0.0",
-    "behappy-tcp-base": "^1.0.0",
     "behappy-utils": "^1.0.0",
     "behappy-view": "^1.0.0",
     "behappy-watcher": "^1.0.0",
@@ -76,6 +75,7 @@
     "rndm": "^1.2.0",
     "safe-timers": "^1.1.0",
     "sdk-base": "^3.3.0",
+    "tcp-emitter-optimization": "^1.0.0",
     "urllib": "^2.25.0",
     "xss": "^0.3.4",
     "yargs": "^9.0.1"
