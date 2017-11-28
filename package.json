@@ -19,6 +19,7 @@
   "homepage": "https://github.com/lovelife10000/behappy-init#readme",
   "dependencies": {
     "agentkeepalive": "^3.3.0",
+    "await-event": "^2.1.0",
     "behappy": "^1.0.1",
     "behappy-bin": "^1.0.1",
     "behappy-byte": "^1.0.0",
@@ -72,9 +73,9 @@
     "long": "^3.2.0",
     "mkdirp": "^0.5.1",
     "mz": "^2.7.0",
+    "ndir": "^0.1.5",
     "rndm": "^1.2.0",
     "safe-timers": "^1.1.0",
-    "sdk-base": "^3.3.0",
     "tcp-emitter-optimization": "^1.0.0",
     "urllib": "^2.25.0",
     "xss": "^0.3.4",
